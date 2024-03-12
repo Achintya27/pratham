@@ -1,0 +1,11 @@
+_playground
+venv
+media/pdfs/
+media/devicesCategories/
+db.sqlite3
+*/__pycache__/
+*/*/__pycache__/
+static
+staticfiles
+media/blogs/
+log/*
